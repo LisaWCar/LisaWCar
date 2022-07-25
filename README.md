@@ -2,7 +2,7 @@
 - 👀 I’m interested in it forensics, cs itself, ai/machine learning, pentesting
 - 🌱 I’m currently learning java, python
 - 💞️ I’m looking to collaborate when I have more knowledge
-- 📫 How to reach me: @lillizzylis on ig
+- 📫 How to reach me: -
 
 <!---
 LisaWCar/LisaWCar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
